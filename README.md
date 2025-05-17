@@ -1,7 +1,8 @@
 <p align="center">
   <img src="pic/imitator.png" width="100" height="80">
   <h1 align="center"><b>Who is a Better Imitator</b></h1>
-  <p align="center">Yingjie Zhou (zyj2000@sjtu.edu.cn), Zicheng Zhang, Jun Jia, Yanwei Jiang, Xiaohong Liu, Xiongkuo Min and Guangtao Zhai</p>
+  <p align="center">Yingjie Zhou Zicheng Zhang, Jun Jia, Yanwei Jiang, Xiaohong Liu, Xiongkuo Min and Guangtao Zhai</p>
+  <p align="center">Email: zyj2000@sjtu.edu.cn</p>
 </p>
 
 ---
