@@ -30,7 +30,14 @@ Our novel Peer-to-Peer Motion (P2P-Motion) framework establishes a new benchmark
 ---
 
 ## Getting Started
-To use this repository:
+To use this Dataset:
+
+[百度云盘：AHQA_Dataset](https://pan.baidu.com/s/1LF8JGvLJWHP7rGQmrHreVQ?pwd=ahqa)
+
+To use sources in Dataset (including Designed Animation and Generated Human Images):
+
+[百度云盘：AHQA_source](https://pan.baidu.com/s/1mOIF--H0Bfv3pvlZKslb9Q?pwd=ahqa)
+
 
 ```bash
 git clone https://github.com/yourusername/who-is-a-better-imitator.git
