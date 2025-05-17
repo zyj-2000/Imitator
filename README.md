@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imitator.png" width="80" height="80">
+  <img src="pic/imitator.png" width="100" height="80">
   <h1 align="center"><b>Who is a Better Imitator</b></h1>
 </p>
 
